@@ -15,7 +15,7 @@ I'm always inspired by a variety of projects, which is also one of the reasons a
 
 ---
 
-### Anyways, thanks for dropping by!
+Anyways, thanks for dropping by!
 
 <!---
 IKAMOworkshop/IKAMOworkshop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
