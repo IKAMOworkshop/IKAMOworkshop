@@ -1,13 +1,12 @@
 # About Me
 
 Hello there, I'm Jeremy Chang!👋
-I started as a designer fascinated by all the visuals, and now, I'm expanding my skillset by teaching myself about front-end development.
-I'm always inspired by a variety of projects, which is also one of the reasons and motives for me to begin my developer journey seeing all the incredible and immersive websites.
+I am a creative developer (well, at least aspiring) focusing on front-end development and WebGL.
+I'm very interested in building immersive experience with visual and motion.
 
 ## Fun Facts
 
-- 🖌️ I like to draw and am currently learning to draw in my free time.
-- ✈️ Finding work and relocating to Japan is one of my life goals.
+- 🖌️ I like to draw on my free time.
 - 💻 I can speak three different languages: English, Mandarin, and Japanese.
 - 🏠 Although born in LA, I spent most of my life growing up in Taiwan.
 
